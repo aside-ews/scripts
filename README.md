@@ -1,6 +1,6 @@
-#Scripts
+##Scripts
 
-sharing analysis scripts
+Sharing analysis scripts
 
 
 ## Welcome to GitHub Pages
